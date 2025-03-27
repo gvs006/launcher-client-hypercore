@@ -13,8 +13,8 @@
     "windows": [
       {
         "title": "Ultra City Launcher",
-        "width": 800,
-        "height": 500,
+        "width": 1280,
+        "height": 720,
         "resizable": false,
         "decorations": false
       }
